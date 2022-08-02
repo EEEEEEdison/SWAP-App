@@ -1,7 +1,6 @@
 # SWAP-App
 SWAP your money with our shoes! 
 
-Project name: SWAP.
 Field of business: online retailing application for sneakers, vintage clothing, collectables, etc.
 Business overview: provide a third-party online trading platform for customers in Canada, listed products include high demanding shoes, clothing, purses, and so on. Prices are determined by market demand and supply, not the retail price. We purchase a large quantity of inventories, and sell at a premium depends on the market condition. Customers can buy from or sell items to us. 
 
